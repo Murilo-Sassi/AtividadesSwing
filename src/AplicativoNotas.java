@@ -23,7 +23,7 @@ public class AplicativoNotas {
         lblresultado = new JLabel("Média: 0.0"); // Rótulo que exibirá a média
         panelmain = new JPanel(); // Painel principal
 
-        // Tornando a área de texto somente leitura
+        // Tornando a área de texto somente leitura a
         txtlista.setEditable(false);
         txtlista.setLineWrap(true);
         txtlista.setWrapStyleWord(true);

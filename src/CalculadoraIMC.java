@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//a
 public class CalculadoraIMC {
     private JTextField txtpeso;
     private JTextField txtaltura;

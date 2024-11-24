@@ -1,7 +1,6 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
 
 public class CadastrodeContato {
     private JPanel mainpanel;
@@ -21,7 +20,7 @@ public class CadastrodeContato {
         listModel = new DefaultListModel<>();
         listcontatos.setModel(listModel);
 
-        // Adiciona funcionalidade ao botão 'Adicionar'
+        // Adiciona funcionalidade ao botãoo 'Adicionar'
         btnadd.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
